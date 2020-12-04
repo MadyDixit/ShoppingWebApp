@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   public showMsg: String = '';
   /**
-   * Cart
+   * Cart Into Web Application
    */
   public Cart() {
       this.showMsg = "Successfully Inserted";
